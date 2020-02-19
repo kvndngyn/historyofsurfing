@@ -1,0 +1,46 @@
+.background {
+  background-image: url("https://collectionsofwaikiki.com/wp-content/uploads/2019/07/peahi-jaws-s.jpg");
+}
+
+body {
+  color: yellow;
+  text-shadow: -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;
+}
+
+h1 {
+  font-family: "Fjalla One";
+  font-size: 60px;
+  text-align: center;
+  margin: 60px 0px 60px 0px;
+}
+
+h2 {
+  font-family: "Fjalla One";
+  font-size: 40px;
+  text-align: center;
+}
+
+p {
+  font-family: "Average";
+  font-size: 30px;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  margin: 0px 15px 0px 15px;
+  border-style: solid;
+  border-color: aqua;
+}
+
+.caption {
+  display: block;
+  font-size: 25px;
+}
+
+.item {
+  vertical-align: top;
+  display: inline-block;
+  text-align: center;
+}
